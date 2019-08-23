@@ -1,4 +1,4 @@
-# faceDetect.py file will detect users based
+# faceDetect.py file will detect users
 
 # facematch.py <- testing file
 
