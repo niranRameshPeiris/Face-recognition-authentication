@@ -4,7 +4,7 @@
 
 # rec.py will be used to draw rectangles around faces
 
-# testAcc.py can be ude to test the model
+# testAcc.py can be use to test the model
 
 #How to use faceDetect.py
 
