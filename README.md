@@ -8,7 +8,7 @@
 
 # How to use faceDetect.py
 
-### first create database called "mirror" and create a table called users.
+### first create a database called "mirror" and create a table called users.
 ### then add the backup file
 ### next install following python packages (face_recognition, mysql_connector)
 ### all the other relevant packages as well
