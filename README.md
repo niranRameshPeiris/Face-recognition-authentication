@@ -1,15 +1,15 @@
-# faceDetect.py file will detect users
+## faceDetect.py file will detect users
 
-# facematch.py <- testing file
+## facematch.py <- testing file
 
-# rec.py will be used to draw rectangles around faces
+## rec.py will be used to draw rectangles around faces
 
-# testAcc.py can be use to test the model
+## testAcc.py can be use to test the model
 
-#How to use faceDetect.py
+# How to use faceDetect.py
 
-## first create database called "mirror" and create a table called users.
-## then add the backup file
-## next install following python packages (face_recognition, mysql_connector)
-## all the other relevant packages as well
-## then run the code
+### first create database called "mirror" and create a table called users.
+### then add the backup file
+### next install following python packages (face_recognition, mysql_connector)
+### all the other relevant packages as well
+### then run the code
